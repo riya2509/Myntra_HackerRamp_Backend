@@ -9,11 +9,11 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/riya2509/Myntra_HackerRamp_Frontend.git
+    git clone https://github.com/riya2509/Myntra_HackerRamp_Backend
     ```
 2. Navigate to the project directory:
     ```sh
-    cd Myntra_HackerRamp_Frontend
+    cd Myntra_HackerRamp_Brontend
     ```
 3. Install dependencies:
     ```sh
@@ -26,14 +26,11 @@
 
 ## Usage
 
-### Running the Development Server
+### Running the Backend Server
 
 1. Start the development server:
     ```sh
-    npm start
+    npm run dev
     ```
-    or
-    ```sh
-    yarn start
-    ```
-2. Open your browser and navigate to `http://localhost:3000`.
+2. After starting the backend server open the UI.
+3. Open your browser and navigate to `http://localhost:3000`.
