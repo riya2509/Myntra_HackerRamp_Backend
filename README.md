@@ -13,7 +13,7 @@
     ```
 2. Navigate to the project directory:
     ```sh
-    cd Myntra_HackerRamp_Brontend
+    cd Myntra_HackerRamp_Backend
     ```
 3. Install dependencies:
     ```sh
